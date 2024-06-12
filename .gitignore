@@ -1,0 +1,22 @@
+# Configuration files
+/.idea/
+/.env
+
+# Translation files that can be generated
+/translations/bg/LC_MESSAGES/messages.mo
+
+# Files that might contain sensitive data
+# Template files with place holders should be made
+/app_config.py
+/cron/birthday_reminder.py
+
+# Local files for CRUD operations
+/csv/
+/crud.py
+
+# Ignore Python bytecode files
+__pycache__/
+
+# The content of NewFrontend will replace the one VueFrontend
+# but not ready yet
+/NewFrontend/

@@ -1,0 +1,13 @@
+<style media="screen">
+  .bold-text {
+    font-weight: bold;
+  }
+</style>
+
+<div class="container">
+  <h4>Форма за Участие</h4>
+
+  {% for label, input in form_dict.items() %}
+  <p>{{label}}: {{input}}</p>
+  {% endfor %}
+</div>

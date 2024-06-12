@@ -1,0 +1,1044 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-06 16:37+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: api/v2/translations_router.py:80
+msgid "Welcome to DPT Shumen"
+msgstr ""
+
+#: api/v2/translations_router.py:81 api/v2/translations_router.py:111
+msgid ""
+"Go to the theater! It's great! Here, you will be able to find information"
+" about upcoming premieres and current performances."
+msgstr ""
+
+#: api/v2/translations_router.py:84 api/v2/translations_router.py:109
+msgid "What's On"
+msgstr ""
+
+#: api/v2/translations_router.py:85
+msgid "Theater Festival"
+msgstr ""
+
+#: api/v2/translations_router.py:86 api/v2/translations_router.py:122
+msgid "Repertoire"
+msgstr ""
+
+#: api/v2/translations_router.py:87
+msgid "Find actor, play..."
+msgstr ""
+
+#: api/v2/translations_router.py:88
+msgid "Tickets"
+msgstr ""
+
+#: api/v2/translations_router.py:90
+msgid "About Us"
+msgstr ""
+
+#: api/v2/translations_router.py:91 api/v2/translations_router.py:330
+msgid "Collective"
+msgstr ""
+
+#: api/v2/translations_router.py:92 api/v2/translations_router.py:346
+msgid "History"
+msgstr ""
+
+#: api/v2/translations_router.py:93
+msgid "Stages"
+msgstr ""
+
+#: api/v2/translations_router.py:94
+msgid "About the Theatre"
+msgstr ""
+
+#: api/v2/translations_router.py:95
+msgid "Careers"
+msgstr ""
+
+#: api/v2/translations_router.py:97
+msgid "bul. \"Slavyanski\" 72, 9700 Shumen Center, Shumen"
+msgstr ""
+
+#: api/v2/translations_router.py:98
+msgid "Theatre Shumen Online"
+msgstr ""
+
+#: api/v2/translations_router.py:99
+msgid "With the financial support of:"
+msgstr ""
+
+#: api/v2/translations_router.py:100
+msgid "Legal Information"
+msgstr ""
+
+#: api/v2/translations_router.py:101 api/v2/translations_router.py:110
+#: api/v2/translations_router.py:123 api/v2/translations_router.py:331
+#: api/v2/translations_router.py:347
+msgid "DPT Shumen"
+msgstr ""
+
+#: api/v2/translations_router.py:102
+msgid "Privacy Policy"
+msgstr ""
+
+#: api/v2/translations_router.py:103
+msgid "GDPR Policy"
+msgstr ""
+
+#: api/v2/translations_router.py:104
+msgid "Public Information Policy"
+msgstr ""
+
+#: api/v2/translations_router.py:114
+msgid "Upcoming Events"
+msgstr ""
+
+#: api/v2/translations_router.py:115 api/v2/translations_router.py:127
+msgid "Ticket"
+msgstr ""
+
+#: api/v2/translations_router.py:117 api/v2/translations_router.py:126
+#: api/v2/translations_router.py:334
+msgid "Read More"
+msgstr ""
+
+#: api/v2/translations_router.py:128
+msgid "Watch Trailer"
+msgstr ""
+
+#: api/v2/translations_router.py:131
+msgid "Coming Soon"
+msgstr ""
+
+#: api/v2/translations_router.py:132
+msgid "min"
+msgstr ""
+
+#: api/v2/translations_router.py:133
+msgid "minutes"
+msgstr ""
+
+#: api/v2/translations_router.py:134
+msgid "Remaining Seats:"
+msgstr ""
+
+#: api/v2/translations_router.py:136
+msgid "Author"
+msgstr ""
+
+#: api/v2/translations_router.py:137
+msgid "Director"
+msgstr ""
+
+#: api/v2/translations_router.py:138
+msgid "Scenographer"
+msgstr ""
+
+#: api/v2/translations_router.py:139
+msgid "Composer /music/"
+msgstr ""
+
+#: api/v2/translations_router.py:140
+msgid "Dramatization"
+msgstr ""
+
+#: api/v2/translations_router.py:141
+msgid "Artistic director"
+msgstr ""
+
+#: api/v2/translations_router.py:142
+msgid "Translation"
+msgstr ""
+
+#: api/v2/translations_router.py:144 api/v2/translations_router.py:339
+msgid "Close"
+msgstr ""
+
+#: api/v2/translations_router.py:147
+msgid "Current"
+msgstr ""
+
+#: api/v2/translations_router.py:149
+msgid "Audience"
+msgstr ""
+
+#: api/v2/translations_router.py:150
+msgid "Adults"
+msgstr ""
+
+#: api/v2/translations_router.py:151
+msgid "Children"
+msgstr ""
+
+#: api/v2/translations_router.py:153
+msgid "Genre"
+msgstr ""
+
+#: api/v2/translations_router.py:154
+msgid "Drama"
+msgstr ""
+
+#: api/v2/translations_router.py:155
+msgid "Comedy"
+msgstr ""
+
+#: api/v2/translations_router.py:156
+msgid "Other"
+msgstr ""
+
+#: api/v2/translations_router.py:157
+msgid "Puppet Show"
+msgstr ""
+
+#: api/v2/translations_router.py:158
+msgid "Children's Play"
+msgstr ""
+
+#: api/v2/translations_router.py:160
+msgid "Reset"
+msgstr ""
+
+#: api/v2/translations_router.py:165
+msgid "Друмеви Театрални Празници"
+msgstr ""
+
+#: api/v2/translations_router.py:166
+msgid "Начало"
+msgstr ""
+
+#: api/v2/translations_router.py:167
+msgid "За Фестивала"
+msgstr ""
+
+#: api/v2/translations_router.py:168
+msgid "Постижения"
+msgstr ""
+
+#: api/v2/translations_router.py:169
+msgid "Кандидатстване"
+msgstr ""
+
+#: api/v2/translations_router.py:170
+msgid "Научете Повече"
+msgstr ""
+
+#: api/v2/translations_router.py:171
+msgid "Продължи Надолу"
+msgstr ""
+
+#: api/v2/translations_router.py:172
+msgid "Това поле е задължително*"
+msgstr ""
+
+#: api/v2/translations_router.py:173
+msgid "Това поле HE е задължително"
+msgstr ""
+
+#: api/v2/translations_router.py:174
+msgid "Качване"
+msgstr ""
+
+#: api/v2/translations_router.py:175
+msgid "Изпращане"
+msgstr ""
+
+#: api/v2/translations_router.py:177
+msgid "гр. Шумен | 11-16 Май 2024"
+msgstr ""
+
+#: api/v2/translations_router.py:178
+msgid "С финансовата подкрепа на:"
+msgstr ""
+
+#: api/v2/translations_router.py:180
+msgid "История"
+msgstr ""
+
+#: api/v2/translations_router.py:182
+msgid "който"
+msgstr ""
+
+#: api/v2/translations_router.py:183
+msgid "насърчава"
+msgstr ""
+
+#: api/v2/translations_router.py:184
+msgid "търси"
+msgstr ""
+
+#: api/v2/translations_router.py:185
+msgid "създава"
+msgstr ""
+
+#: api/v2/translations_router.py:187
+msgid "Празникът на българската драматургия от 1966 г.,"
+msgstr ""
+
+#: api/v2/translations_router.py:189
+msgid "новото,"
+msgstr ""
+
+#: api/v2/translations_router.py:191
+msgid "непознатото,"
+msgstr ""
+
+#: api/v2/translations_router.py:193
+msgid "традиции на родните театрални сцени."
+msgstr ""
+
+#: api/v2/translations_router.py:194
+msgid ""
+"Историята на „Друмеви театрални празници“ е изключително богата, не само "
+"заради достолепната възраст на фестивала, но и интересните и катарзисни "
+"моменти, през които преминава форумът. След създаването на „Друмеви "
+"театрални игри“ (първото име на фестивала), той се провежда "
+"последователно и през 1967, 1970, 1972 и 1976 година, придобивайки "
+"характер на национален културен форум. Изданието от 1976 година е "
+"последвано от дълга пауза, като фестивалът възобновява своята дейност "
+"отново през 1993 година с ново име – Шуменска театрална среща „Нова "
+"българска драма“, с което се слави и през последвалите две издания през "
+"1994 и 1995 година. След изданието през 1995 година, фестивалът отново е "
+"паузиран, но възобновява своята дейност само три години по-късно.\n"
+"Първите четири издания на фестивала не са изцяло посветени на българската"
+" драматургия, повлияни от политически причини – във фестивалната програма"
+" преобладават руски текстове. Въпреки силното политическо напрежение през"
+" късните 70-те години, в афиша на „Друмеви театрални дни“ през 1976 "
+"година присъстват само и единствено спектакли по български текстове. Така"
+" и до днес.\n"
+"През 1993 година, при първото издание след дългото прекъсване на "
+"осъществяването на фестивала, възниква и нов, изключително важен "
+"компонент за фестивалния живот – Авторски прочит. От тогава до днес, във "
+"форума се включват множество автори, като в селектираните от различните "
+"селекционери през годините влизат 184 текста.\n"
+"В последните години „Друмеви театрални празници“ служи като стимул на "
+"младите, на търсещите български театрали, които намират смисъл в "
+"българската драматургия и литература. Във фестивалния афиш ежегодно "
+"присъстват различни жанрове – моноспектакли, драми, комедии, пърформанси,"
+" документални, експериментални спектакли. В последните издания могат да "
+"бъдат забелязани и заглавия от независимата сцена, което дава възможност "
+"на гостите на фестивала да се докоснат до неконвенционалния български "
+"театър.\n"
+"През 2005 година в рамките на фестивала за първи път са поканени "
+"международни продукции по български текстове – изключително  любопитно и "
+"нужно явление, което доказва на българския театрал и зрител, че нашето "
+"творчество излиза извън граница и бива ценено и поставяно в друг "
+"контекст, в друга среда. През изминалите години от първото международно "
+"издание на „Друмеви театрални празници“ са гостували продукции от Русия, "
+"Македония, Турция, Германия, Румъния, Грузия и др.\n"
+"В рамките на своята 58-годишна история и със своите 32 изминали издания, "
+"Международен фестивал „Друмеви театрални празници“ е приютил и показал на"
+" гостите на формата цели 378 спектакъла."
+msgstr ""
+
+#: api/v2/translations_router.py:223
+msgid "Вдъхновяваме българските творци от 58 години"
+msgstr ""
+
+#: api/v2/translations_router.py:226
+msgid "32 издания"
+msgstr ""
+
+#: api/v2/translations_router.py:227
+msgid ""
+"Издания, които стимулират и насърчават българските театрали да намират "
+"смисъл в родната драматургия и литература."
+msgstr ""
+
+#: api/v2/translations_router.py:230
+msgid "378 спектакъла"
+msgstr ""
+
+#: api/v2/translations_router.py:231
+msgid ""
+"В рамките на своята дълголетна история, фестивалът е показал на своите "
+"гости цели 378 спектакъла на различните сцени в театъра и града."
+msgstr ""
+
+#: api/v2/translations_router.py:234
+msgid "184 пиеси"
+msgstr ""
+
+#: api/v2/translations_router.py:235
+msgid ""
+"От 1993 година, в „Авторски прочит“ са прочетени и селектирани 184 нови и"
+" непоставяни пиеси на български драматурзи."
+msgstr ""
+
+#: api/v2/translations_router.py:238
+msgid "Кандидайтствай в направление"
+msgstr ""
+
+#: api/v2/translations_router.py:241
+msgid "Преглед на спектакли"
+msgstr ""
+
+#: api/v2/translations_router.py:242
+msgid ""
+"*Спектаклите могат да бъдат продукция на държавни, общински или частни "
+"културни институти."
+msgstr ""
+
+#: api/v2/translations_router.py:244 api/v2/translations_router.py:313
+msgid "Авторски прочит"
+msgstr ""
+
+#: api/v2/translations_router.py:245
+msgid ""
+"*Текстът трябва да бъде непубликуван и непоставян, за да се впише в "
+"регламента на фестивала!"
+msgstr ""
+
+#: api/v2/translations_router.py:247
+msgid "или"
+msgstr ""
+
+#: api/v2/translations_router.py:248
+msgid "Опции за кандидатстване"
+msgstr ""
+
+#: api/v2/translations_router.py:249
+msgid ""
+"Даваме ви две опции, чрез които да можете да кандидатствате за ваше "
+"улеснение. Моля изберете един от двата варианта."
+msgstr ""
+
+#: api/v2/translations_router.py:251
+msgid "Чрез имейл:"
+msgstr ""
+
+#: api/v2/translations_router.py:252
+msgid "Изтеглете, попълнете и изпратете файла на theatreshumen@gmail.com."
+msgstr ""
+
+#: api/v2/translations_router.py:253
+msgid "Онлайн тук:"
+msgstr ""
+
+#: api/v2/translations_router.py:254
+msgid "Попълнете през уебсайта онлайн формуляра за кандидатстване."
+msgstr ""
+
+#: api/v2/translations_router.py:255
+msgid "Изтегли Тук"
+msgstr ""
+
+#: api/v2/translations_router.py:256
+msgid "Продължи"
+msgstr ""
+
+#: api/v2/translations_router.py:259
+msgid "Преглед на Спектакли"
+msgstr ""
+
+#: api/v2/translations_router.py:260
+msgid "Име на театър или организация"
+msgstr ""
+
+#: api/v2/translations_router.py:261
+msgid "Заглавие на спектакъла"
+msgstr ""
+
+#: api/v2/translations_router.py:262
+msgid "Пълен запис на спектакъла (до 5гб)"
+msgstr ""
+
+#: api/v2/translations_router.py:263
+msgid "Автор"
+msgstr ""
+
+#: api/v2/translations_router.py:264
+msgid "Режисьор"
+msgstr ""
+
+#: api/v2/translations_router.py:265
+msgid "Сценограф"
+msgstr ""
+
+#: api/v2/translations_router.py:266
+msgid "Композитор"
+msgstr ""
+
+#: api/v2/translations_router.py:267
+msgid "Други"
+msgstr ""
+
+#: api/v2/translations_router.py:268
+msgid "Участват"
+msgstr ""
+
+#: api/v2/translations_router.py:270
+msgid "Данни за Спектакъла"
+msgstr ""
+
+#: api/v2/translations_router.py:271
+msgid "Кратка анотация"
+msgstr ""
+
+#: api/v2/translations_router.py:272
+msgid "Снимков материал - до 5 снимки + плакат (общо 6 файла)"
+msgstr ""
+
+#: api/v2/translations_router.py:273
+msgid "Пуснете файловете тук или натиснете за качване"
+msgstr ""
+
+#: api/v2/translations_router.py:274
+msgid "Плакат"
+msgstr ""
+
+#: api/v2/translations_router.py:275
+msgid "Времетраене"
+msgstr ""
+
+#: api/v2/translations_router.py:276
+msgid "Антракт"
+msgstr ""
+
+#: api/v2/translations_router.py:279
+msgid "Лице за контакти, длъжност"
+msgstr ""
+
+#: api/v2/translations_router.py:280
+msgid "Адрес"
+msgstr ""
+
+#: api/v2/translations_router.py:281
+msgid "Телефон"
+msgstr ""
+
+#: api/v2/translations_router.py:282
+msgid "E-mail"
+msgstr ""
+
+#: api/v2/translations_router.py:283
+msgid "Web страница"
+msgstr ""
+
+#: api/v2/translations_router.py:286
+msgid ""
+"Технически и /или други специфични изисквания по построяване на декора, "
+"осветлението, музикалното оформление и други/описват се конкретно"
+msgstr ""
+
+#: api/v2/translations_router.py:288
+msgid "Необходим брой чиги"
+msgstr ""
+
+#: api/v2/translations_router.py:289
+msgid "Минимални размери на игралното пространство (Ш/В/Д)"
+msgstr ""
+
+#: api/v2/translations_router.py:290
+msgid "Необходимо време за строеж на"
+msgstr ""
+
+#: api/v2/translations_router.py:291
+msgid "Декор"
+msgstr ""
+
+#: api/v2/translations_router.py:292
+msgid "Осветление"
+msgstr ""
+
+#: api/v2/translations_router.py:293
+msgid "Звук"
+msgstr ""
+
+#: api/v2/translations_router.py:294
+msgid "Необходимо време за разваляне на декора"
+msgstr ""
+
+#: api/v2/translations_router.py:295
+msgid ""
+"Каква бройка хора и от кои технически служби на театъра домакин са ви "
+"необходими: горна механизация, сценични работници, осветители, тон "
+"техници, мултимедиен техник, реквизитор, гардеробиер и други."
+msgstr ""
+
+#: api/v2/translations_router.py:298
+msgid ""
+"Каква бройка хора и от кои технически служби на театъра домакин са ви "
+"необходими?"
+msgstr ""
+
+#: api/v2/translations_router.py:301
+msgid ""
+"Телефонен номер на директора; на отговорника на трупата за турнето и "
+"отговорник по технически въпроси;"
+msgstr ""
+
+#: api/v2/translations_router.py:304
+msgid "Данни за разходи, които се поемат от организатора на фестивала"
+msgstr ""
+
+#: api/v2/translations_router.py:305
+msgid ""
+"Списък на пътуващия екип със спектакъла (имена и длъжност), за "
+"изчисляване на командировъчни разходи."
+msgstr ""
+
+#: api/v2/translations_router.py:306
+msgid "Списък на пътуващия екип"
+msgstr ""
+
+#: api/v2/translations_router.py:307
+msgid "Хонорари на гост-актьори (поименно), доказани с прикачено копие на договор"
+msgstr ""
+
+#: api/v2/translations_router.py:308
+msgid ""
+"Задължения по закона за авторските и сродни права, доказани с прикачено "
+"копие на договор"
+msgstr ""
+
+#: api/v2/translations_router.py:309
+msgid "Общо пътни разходи за превоз на:"
+msgstr ""
+
+#: api/v2/translations_router.py:310
+msgid "Декор и технически служби"
+msgstr ""
+
+#: api/v2/translations_router.py:311
+msgid "Актьорски състав"
+msgstr ""
+
+#: api/v2/translations_router.py:314
+msgid "Регламент"
+msgstr ""
+
+#: api/v2/translations_router.py:315
+msgid "Пиесата трябва да е непубликувана и непоставяна;"
+msgstr ""
+
+#: api/v2/translations_router.py:316
+msgid "Текстът трябва да е написан на български език;"
+msgstr ""
+
+#: api/v2/translations_router.py:317
+msgid "Да не надвишава 60 страници."
+msgstr ""
+
+#: api/v2/translations_router.py:318
+msgid "Име"
+msgstr ""
+
+#: api/v2/translations_router.py:319
+msgid ""
+"За успешното реализиране на фестивала, очакваме Вашите предложения за "
+"текстове в направление „Авторски прочит“ до "
+msgstr ""
+
+#: api/v2/translations_router.py:321
+msgid "31 март 2024 г. "
+msgstr ""
+
+#: api/v2/translations_router.py:322
+msgid ""
+"на имейл адрес drumevipraznici@dktshumen.com или на място в "
+"Драматично-куклен театър „Васил Друмев“, Шумен."
+msgstr ""
+
+#: api/v2/translations_router.py:325
+msgid "Спонсори на МФ „Друмеви театрални празници“:"
+msgstr ""
+
+#: api/v2/translations_router.py:336
+msgid "You can watch"
+msgstr ""
+
+#: api/v2/translations_router.py:337
+msgid "in"
+msgstr ""
+
+#: api/v2/translations_router.py:341
+msgid "Meet"
+msgstr ""
+
+#: api/v2/translations_router.py:349
+msgid "History of the Shumen Theater"
+msgstr ""
+
+#: api/v2/translations_router.py:350
+msgid "Stefan Izvorski"
+msgstr ""
+
+#: api/v2/translations_router.py:351
+msgid ""
+"Teachers and students on the Shumen theater stage. In the first row, from"
+" right to left, are Tsarevna Miladinova, Dobri Voinikov, the priest Todor"
+" Baychev - the prompter for the Shumen performances, and the co-director "
+"Todor Dzhabarov."
+msgstr ""
+
+#: api/v2/translations_router.py:354
+msgid ""
+"Kavrakov's cafe, where the play \"Mihal Mishkoed\" was performed in 1856,"
+" artist St. Petrov"
+msgstr ""
+
+#: api/v2/translations_router.py:355
+msgid "Community Center \"Archangel Michael\""
+msgstr ""
+
+#: api/v2/translations_router.py:356
+msgid ""
+"The first theater curtain from 1898 in the \"Archangel Michael\" "
+"Community Center"
+msgstr ""
+
+#: api/v2/translations_router.py:357
+msgid "Vasil Drumev"
+msgstr ""
+
+#: api/v2/translations_router.py:358
+msgid "Dobri Voinikov"
+msgstr ""
+
+#: api/v2/translations_router.py:359
+msgid "Sava Dobroplodni"
+msgstr ""
+
+#: api/v2/translations_router.py:360
+msgid "Veliko Dukemendjiev"
+msgstr ""
+
+#: api/v2/translations_router.py:361
+msgid "Shumen - ul. \"Slavianska\" - \"Odeon\" Theater"
+msgstr ""
+
+#: api/v2/translations_router.py:362
+msgid "National Theatre \"Vasil Drumev\""
+msgstr ""
+
+#: api/v2/translations_router.py:363
+msgid "Drama Puppet Theater \"Vasil Drumev\""
+msgstr ""
+
+#: api/v2/translations_router.py:365
+msgid ""
+"The Drama-Puppet Theatre \"Vasil Drumev\" is the inheritor of theatrical "
+"traditions in Shumen dating back to the era of the Bulgarian Revival. The"
+" first documented record of a theatrical event from the distant past is "
+"associated with Shumen. In 1813, the Armenian priest and cultural figure "
+"Minas Puzhshkyan, passing through our town, witnessed a locally organized"
+" \"theater\" event. He described the spectacle as a \"play.\" This event "
+"was connected with the civic celebration of the Day of Saints Cyril and "
+"Methodius. This documents Shumen's initial contribution to Bulgarian "
+"theater knowledge."
+msgstr ""
+
+#: api/v2/translations_router.py:371
+msgid ""
+"In a publication of the magazine \"Lyuboslovie\" from 1846, a theatrical "
+"celebration at the end of the school year is described, which took place "
+"at the Shumen Mutual Teaching School on August 11, 1846, under the "
+"guidance of teacher Stefan Izvorski. This date is considered the birth of"
+" the school theater. Its students were Vasil Drumev and Dobri Voynikov, "
+"and its deputy was Sava Dobroplodni. Voynikov studied and developed his "
+"own way of presenting student performances. This is the origin of the "
+"school theater, which featured characteristic dramatic dialogues of that "
+"era."
+msgstr ""
+
+#: api/v2/translations_router.py:377
+msgid ""
+"The Shumen society was not satisfied with child-student plots, thus it "
+"took great interest in the cultural life of the Hungarian emigration. "
+"Among them were prominent dramatic, operatic artists, and musicians. The "
+"city's residents became witnesses to diverse cultural events – theatrical"
+" and operatic performances, orchestral renditions of European music. On "
+"March 13, 1850, the play \"The Fugitive\" by Sigligeti was staged on a "
+"specially decorated stage in the garrison barracks. This first theatrical"
+" performance caused extraordinary excitement in the city. It was then "
+"that Mihai Shafran created a permanent orchestra of immigrants, and the "
+"following year saw the establishment of the first Bulgarian orchestra. In"
+" September 1850, the Polish emigration staged the first opera production "
+"in the city, which was a great success."
+msgstr ""
+
+#: api/v2/translations_router.py:386
+msgid ""
+"During the Crimean War (1853-1856), the people of Shumen gradually "
+"embraced new cultural entertainments brought from Europe by the English "
+"and French forces stationed in the city."
+msgstr ""
+
+#: api/v2/translations_router.py:388
+msgid ""
+"With the growing cultural needs of Shumen society, the idea of "
+"establishing a public community center (chitalishte) was born. It was "
+"founded in 1856 in Shumen by the initiative of Sava Dobroplodni and was "
+"one of the first community centers in the country. It was initially "
+"located in the Kavrakov Cafe, and later in Tash Maaza – a building "
+"constructed by Hungarian emigrants, owned by Anastas Haji Stoyanov. At "
+"the insistence of Dobri Voynikov, chorbadji Anastas provided two rooms "
+"for the needs of the community center."
+msgstr ""
+
+#: api/v2/translations_router.py:394
+msgid ""
+"In the same year, on August 15, Sava Dobroplodni staged the Bulgarianized"
+" comedy \"Mihal Mishkoed.\" This performance is considered the beginning "
+"of contemporary Bulgarian theater. His assistant in directing was Czech "
+"emigrant Josef Meisner, and the actors were his students – Vasil Drumev, "
+"Vasil Stoyanov, and others. The success of the first Bulgarian "
+"performance confirmed in the artists and the Shumen community the belief "
+"that theatrical art is not foreign and inaccessible to Bulgarians. The "
+"theatrical enterprise in Shumen continued its development, being closely "
+"connected with the \"Archangel Michael\" community center (now the "
+"\"Dobri Voynikov\" community center) until the end of the 19th century."
+msgstr ""
+
+#: api/v2/translations_router.py:401
+msgid ""
+"In the 1860s, Dobri Voynikov began his theatrical and dramaturgical "
+"activities. After school stage dialogues, he transitioned to larger-scale"
+" theatrical performances. On June 29, 1862, the comedy \"The Doctor in "
+"Spite of Himself\" by Molière was presented."
+msgstr ""
+
+#: api/v2/translations_router.py:404
+msgid ""
+"Later, in the 70s, theatrical activity continued to develop within the "
+"community center, which became a hub of cultural and intellectual life in"
+" the city. A modern theater hall with a rich wardrobe and props was "
+"established, which was advanced for its time."
+msgstr ""
+
+#: api/v2/translations_router.py:407
+msgid ""
+"During this period, plays such as \"The Suffering Genevieve,\" "
+"\"Nevyanka,\" \"Lost Stanca,\" Voinikov's \"Misunderstood Civilization\" "
+"on November 21, 1871, \"Raina Knyaginya\" in February 1872, and also "
+"\"Ivanko, the Killer of Asen I\" by Vasil Drumev in 1874 were performed "
+"on the community center stage, among many others."
+msgstr ""
+
+#: api/v2/translations_router.py:411
+msgid ""
+"Almost all of the actors were members of the community center. In "
+"Voinikov's historical plays, members of the Revolutionary Committee, led "
+"by chairman Panayot Volov, also participated. His involvement in "
+"\"Misunderstood Civilization\", which led to the event known as the "
+"\"French Wedding,\" is significant. This event defined Shumen's "
+"contribution to the Renaissance theater, lifting our national self-"
+"esteem. The Revolutionary Committee recognized the moral impact that "
+"theatrical performances had on the youth of Shumen, encouraging its "
+"members to participate in the theater. This prompted the Turkish "
+"authorities to halt the theatrical activity of the community center in "
+"1875."
+msgstr ""
+
+#: api/v2/translations_router.py:418
+msgid ""
+"In 1876, Dobri Voinikov returned to his hometown and, alongside his "
+"teaching work, once again engaged in community center activities. With "
+"the help of chairman Haralan Angelov, along with theater enthusiasts "
+"Todor Chengeliev and Todor Dzhabarov, he succeeded in forming a new "
+"association within the community center named \"Shumen Theater Stage,\" "
+"where he became a director and producer. On the eve of the Liberation "
+"War, theatrical performances were again halted until the city was "
+"occupied by Russian forces."
+msgstr ""
+
+#: api/v2/translations_router.py:424
+msgid ""
+"In the first two decades following the Liberation, theatrical activity in"
+" Shumen was organized jointly by the \"Archangel Michael\" community "
+"center and the teacher's society \"Foundation.\" Thus, the new theater "
+"life after the Liberation began with Voinikov's play \"Princess Raina,\" "
+"in honor of the long-awaited freedom."
+msgstr ""
+
+#: api/v2/translations_router.py:428
+msgid ""
+"In 1882, the community of Russian officers in the city joined the "
+"community center theater. Prince Gedroitz prepared several Russian plays,"
+" including comedies by Gogol, \"Marriage\" and \"Inspector General.\" The"
+" following year, the community center theater commission included Racho "
+"M. Rachev, Georgi Balkanski, and Encho Atanasov, who invigorated "
+"theatrical activity with the help of the \"Foundation\" teacher's society"
+" and the \"Patriotism\" women's society. Thus, in the mid-80s, the "
+"presentation of theatrical productions entirely shifted to the "
+"\"Foundation\" society. The wide corridor of the pedagogical school was "
+"often used as a theater salon."
+msgstr ""
+
+#: api/v2/translations_router.py:435
+msgid ""
+"In 1898, extensive opportunities for theater emerged in Shumen when the "
+"new community center building was completed, featuring a modern hall and "
+"a wide stage for its time. Then, the \"Foundation\" society staged a new "
+"production of \"Ivanko, the Killer of Asen I,\" which was one of its last"
+" theatrical performances."
+msgstr ""
+
+#: api/v2/translations_router.py:439
+msgid ""
+"After 1900, the Renaissance theme gave way to contemporary artistic "
+"drama, mainly of Western European origin. The city's theatrical activity "
+"depended on the initiatives of some schools and incidentally formed "
+"amateur troupes. Attempts were made to establish a permanent professional"
+" theater. Many of these attempts were unsuccessful, until in 1910, Sava "
+"Stoyanov formed the \"Bulgarian Free Theater\" with several artists and "
+"enthusiasts. They debuted with the play \"Happiness in Hell,\" which was "
+"highly successful. Due to lack of funding, the theater ceased its "
+"operations in 1912."
+msgstr ""
+
+#: api/v2/translations_router.py:445
+msgid ""
+"After the First World War, the \"Shumen City Theater\" was founded by "
+"actors Vladimir Sheytanov and Al. Robertovich. In 1920, artists from the "
+"\"Shumen People's Theater\" joined it. The period from 1919 to 1920 is "
+"one of the most dazzling for theater in Shumen. The \"Shumen City "
+"Theater\" existed until 1927, and during its eight years of existence, it"
+" staged 35 productions from contemporary European drama."
+msgstr ""
+
+#: api/v2/translations_router.py:449
+msgid ""
+"In 1927, the professional artists in Shumen established the \"Dramatic "
+"Studio,\" which was later renamed the \"Shumen Municipal Theater,\" "
+"replacing the Shumen City Theater. The following year, the two theaters "
+"merged under the name \"Shumen Municipal City Theater,\" which existed "
+"until 1934 with municipal support. On its stage, 16 Bulgarian plays were "
+"performed. After its closure, the first \"Regional Theater\" in the "
+"country was established, directed by Veliko Dyukmedzhiev, and it existed "
+"until 1937."
+msgstr ""
+
+#: api/v2/translations_router.py:454
+msgid ""
+"A stable, professional municipal theater was established by the decision "
+"of the Shumen Municipality in the spring of 1944, with director Stefan "
+"Gudularov. Due to events in the same year, its activities began after "
+"September 9. The issue of a theater building was a challenge for the "
+"Shumen administration. The composition of the new municipal theater "
+"either performed on the community center stage or at the \"Odeon\" "
+"cinema. Neither of these venues was suitable for theatrical performances;"
+" the conditions were extremely poor – there were no dressing rooms, the "
+"premises were unhygienic, and the stage was unsuitable, which created "
+"numerous difficulties for a proper play production. The poor conditions "
+"began to affect the theater's work, and some of the artists moved to "
+"other ensembles."
+msgstr ""
+
+#: api/v2/translations_router.py:462
+msgid ""
+"In the years after 1944, despite facing many challenges, the theater "
+"presented up to ten premieres per season. A committee for the "
+"construction of a theater building was formed, which managed to raise "
+"some funds, but they were extremely insufficient. The construction of "
+"such a building began, but even before the foundations were completed, it"
+" was halted."
+msgstr ""
+
+#: api/v2/translations_router.py:466
+msgid ""
+"On January 1, 1949, the theater was nationalized. Its director was Ivan "
+"Georgiev. The first manifestation of the State People's Theater – Shumen "
+"was the restored production of Molière's \"Tartuffe\" directed by Dimitar"
+" Stratev."
+msgstr ""
+
+#: api/v2/translations_router.py:469
+msgid ""
+"On October 13, 1957, after almost a decade of construction, the new "
+"multifunctional theater building with a revolving stage was opened. The "
+"theater's director was Doychin Doychinov. The grand opening of the new "
+"building took place with the play \"Ivailo,\" prepared by director Boris "
+"Spirov."
+msgstr ""
+
+#: api/v2/translations_router.py:472
+msgid ""
+"In 1966, the first edition of the \"Drumevi Theater Holidays\" festival "
+"was realized. The main organizer and host was the Drama Theater – Shumen."
+" At that time, the theater was directed by actor Ivan Yanchev."
+msgstr ""
+
+#: api/v2/translations_router.py:474
+msgid ""
+"On the occasion of celebrating the 1300th anniversary of the Bulgarian "
+"state, various festivities and the opening of new cultural institutions "
+"were organized in our city. On this occasion, and upon the proposal of "
+"the District Council for Art and Culture – Shumen, the beginning of the "
+"\"Creators of the Bulgarian State\" Complex was marked, starting from the"
+" theater building. The project for the main reconstruction and "
+"modernization of the theater was entrusted to architects Mikhail "
+"Sokolovski, Boris Kamilarov, and Tzanko Hadzhistoychev. The new building "
+"of the \"Vasil Drumev\" Drama Theater was opened on November 28, 1981. "
+"The first play performed on the main theater stage was the play "
+"\"Daughter-in-Law.\""
+msgstr ""
+
+#: api/v2/translations_router.py:482
+msgid ""
+"Starting from January 1, 2000, the Drama Theater – Shumen, and the Puppet"
+" Theater \"Patilanchо,\" were merged into the \"Vasil Drumev\" Drama and "
+"Puppet Theater – Shumen."
+msgstr ""
+
+#: api/v2/translations_router.py:488
+msgid "Floor Plan"
+msgstr ""
+
+#: api/v2/translations_router.py:489
+msgid "Seating Plan"
+msgstr ""
+
+#: api/v2/translations_router.py:491
+msgid "Main Stage"
+msgstr ""
+
+#: api/v2/translations_router.py:492
+msgid ""
+"The main stage in the theater has 485 seats distributed on the ground "
+"floor and balcony. It often hosts large and massive productions, both "
+"from our theater and guest performances.\n"
+"On the main stage, we have an orchestra pit, which is raised manually."
+msgstr ""
+
+#: api/v2/translations_router.py:496
+msgid "Chamber Stage"
+msgstr ""
+
+#: api/v2/translations_router.py:497
+msgid ""
+"The Chamber Stage \"Rada Spasova\" has 60 seats. On it, we perform "
+"productions with an intimate character that require a more intimate "
+"space.\n"
+"Rada Spasova was a long-time director and actress at the \"Vasil Drumev\""
+" Theater."
+msgstr ""
+
+#: api/v2/translations_router.py:501
+msgid "Patilancho Stage"
+msgstr ""
+
+#: api/v2/translations_router.py:502
+msgid ""
+"Since 2000, the Puppet and Drama Theater unite under one roof, giving "
+"rise to the \"Patilantcho\" Hall. The stage has 60 seats and hosts all of"
+" our puppet performances.\n"
+"The hall and the path to it are entirely painted in magical worlds."
+msgstr ""
+

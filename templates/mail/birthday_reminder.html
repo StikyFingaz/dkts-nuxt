@@ -1,0 +1,22 @@
+<style media="screen">
+  .bold-text {
+    font-weight: bold;
+  }
+</style>
+
+<div class="container">
+  <h4>Hello {{ recipients[0] }},</h4>
+  <p>This is an automatic birthday reminder. Upcoming birthday(s):</p>
+  <p>
+    <ul>
+      {% for employee, birthday in birthdays.items() %}
+      <li>
+        <span class="bold-text">{{ employee }},</span>
+        born {{ birthday['birthday'] }}, will be
+        <span class="bold-text">{{ birthday['age'] + 1}}</span>
+        <span class="bold-text">{{ birthday['birthday_is_upcoming'] }}</span>!
+      </li>
+      {% endfor %}
+    </ul>
+  </p>
+</div>
