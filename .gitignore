@@ -17,6 +17,6 @@
 # Ignore Python bytecode files
 __pycache__/
 
-# The content of NewFrontend will replace the one VueFrontend
-# but not ready yet
+# The content of NewFrontend will replace
+# the one in VueFrontend but not ready yet
 /NewFrontend/

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-06 16:37+0300\n"
-"PO-Revision-Date: 2024-05-06 16:39+0300\n"
+"POT-Creation-Date: 2024-06-26 13:47+0300\n"
+"PO-Revision-Date: 2024-06-26 13:48+0300\n"
 "Last-Translator: \n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -16,14 +16,15 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.15.0\n"
 "X-Generator: Poedit 3.4.2\n"
 
-#: api/v2/translations_router.py:80
+#: api/v2/translations_router.py:80 api/v3/translations_router.py:37
 msgid "Welcome to DPT Shumen"
 msgstr "Добре Дошли в ДКТ Шумен"
 
-#: api/v2/translations_router.py:81 api/v2/translations_router.py:111
+#: api/v2/translations_router.py:81 api/v2/translations_router.py:112
+#: api/v3/translations_router.py:38 api/v3/translations_router.py:68
 msgid ""
 "Go to the theater! It's great! Here, you will be able to find information about "
 "upcoming premieres and current performances."
@@ -31,282 +32,295 @@ msgstr ""
 "Ходете на театър! Страхотно е! Тук можете да намерите информация относно "
 "предстоящи премиери и текущи събития."
 
-#: api/v2/translations_router.py:84 api/v2/translations_router.py:109
+#: api/v2/translations_router.py:84 api/v2/translations_router.py:110
+#: api/v3/translations_router.py:41 api/v3/translations_router.py:66
 msgid "What's On"
 msgstr "Програма"
 
-#: api/v2/translations_router.py:85
-msgid "Theater Festival"
-msgstr "Друмеви Празници"
-
-#: api/v2/translations_router.py:86 api/v2/translations_router.py:122
+#: api/v2/translations_router.py:85 api/v2/translations_router.py:123
+#: api/v3/translations_router.py:43 api/v3/translations_router.py:79
 msgid "Repertoire"
 msgstr "Репертоар"
 
-#: api/v2/translations_router.py:87
+#: api/v2/translations_router.py:86 api/v3/translations_router.py:44
 msgid "Find actor, play..."
 msgstr "Намерете актьор, постановка..."
 
-#: api/v2/translations_router.py:88
+#: api/v2/translations_router.py:87 api/v3/translations_router.py:45
 msgid "Tickets"
 msgstr "Билети"
 
-#: api/v2/translations_router.py:90
+#: api/v2/translations_router.py:88 api/v3/translations_router.py:42
+msgid "Theater Festival"
+msgstr "Друмеви Празници"
+
+#: api/v2/translations_router.py:89
+msgid "\"Todor Kolev\" Festival"
+msgstr "фестивал \"Тодор Колев\""
+
+#: api/v2/translations_router.py:91 api/v3/translations_router.py:47
 msgid "About Us"
 msgstr "За Нас"
 
-#: api/v2/translations_router.py:91 api/v2/translations_router.py:330
+#: api/v2/translations_router.py:92 api/v2/translations_router.py:331
+#: api/v3/translations_router.py:48 api/v3/translations_router.py:287
 msgid "Collective"
 msgstr "Актьорски Състав"
 
-#: api/v2/translations_router.py:92 api/v2/translations_router.py:346
+#: api/v2/translations_router.py:93 api/v2/translations_router.py:347
+#: api/v3/translations_router.py:49 api/v3/translations_router.py:303
 msgid "History"
 msgstr "История"
 
-#: api/v2/translations_router.py:93
+#: api/v2/translations_router.py:94 api/v3/translations_router.py:50
 msgid "Stages"
 msgstr "Сцени"
 
-#: api/v2/translations_router.py:94
+#: api/v2/translations_router.py:95 api/v3/translations_router.py:51
 msgid "About the Theatre"
 msgstr "Относно Театъра"
 
-#: api/v2/translations_router.py:95
+#: api/v2/translations_router.py:96 api/v3/translations_router.py:52
 msgid "Careers"
 msgstr "Кариери"
 
-#: api/v2/translations_router.py:97
+#: api/v2/translations_router.py:98 api/v3/translations_router.py:54
 msgid "bul. \"Slavyanski\" 72, 9700 Shumen Center, Shumen"
 msgstr "бул. Славянски 72, 9700 Шумен Център, Шумен"
 
-#: api/v2/translations_router.py:98
+#: api/v2/translations_router.py:99 api/v3/translations_router.py:55
 msgid "Theatre Shumen Online"
 msgstr "Театър Шумен Онлайн"
 
-#: api/v2/translations_router.py:99
+#: api/v2/translations_router.py:100 api/v3/translations_router.py:56
 msgid "With the financial support of:"
 msgstr "С финансовата подкрепа на:"
 
-#: api/v2/translations_router.py:100
+#: api/v2/translations_router.py:101 api/v3/translations_router.py:57
 msgid "Legal Information"
 msgstr "Правна Информация"
 
-#: api/v2/translations_router.py:101 api/v2/translations_router.py:110
-#: api/v2/translations_router.py:123 api/v2/translations_router.py:331
-#: api/v2/translations_router.py:347
+#: api/v2/translations_router.py:102 api/v2/translations_router.py:111
+#: api/v2/translations_router.py:124 api/v2/translations_router.py:332
+#: api/v2/translations_router.py:348 api/v3/translations_router.py:58
+#: api/v3/translations_router.py:67 api/v3/translations_router.py:80
+#: api/v3/translations_router.py:288 api/v3/translations_router.py:304
 msgid "DPT Shumen"
 msgstr "ДКТ Шумен"
 
-#: api/v2/translations_router.py:102
+#: api/v2/translations_router.py:103 api/v3/translations_router.py:59
 msgid "Privacy Policy"
 msgstr "Политика за Поверителност"
 
-#: api/v2/translations_router.py:103
+#: api/v2/translations_router.py:104 api/v3/translations_router.py:60
 msgid "GDPR Policy"
 msgstr "Политика за Защита на Личните Данни"
 
-#: api/v2/translations_router.py:104
+#: api/v2/translations_router.py:105 api/v3/translations_router.py:61
 msgid "Public Information Policy"
 msgstr "Вътрешен Правилник за Предоставяне на Достъп до Обществена Информация"
 
-#: api/v2/translations_router.py:114
+#: api/v2/translations_router.py:115 api/v3/translations_router.py:71
 msgid "Upcoming Events"
 msgstr "Предстоящи Събития"
 
-#: api/v2/translations_router.py:115 api/v2/translations_router.py:127
+#: api/v2/translations_router.py:116 api/v2/translations_router.py:128
+#: api/v3/translations_router.py:72 api/v3/translations_router.py:84
 msgid "Ticket"
 msgstr "Билет"
 
-#: api/v2/translations_router.py:117 api/v2/translations_router.py:126
-#: api/v2/translations_router.py:334
+#: api/v2/translations_router.py:118 api/v2/translations_router.py:127
+#: api/v2/translations_router.py:335 api/v3/translations_router.py:74
+#: api/v3/translations_router.py:83 api/v3/translations_router.py:291
 msgid "Read More"
 msgstr "Научете Повече"
 
-#: api/v2/translations_router.py:128
+#: api/v2/translations_router.py:129 api/v3/translations_router.py:85
 msgid "Watch Trailer"
 msgstr "Гледайте Трейлър"
 
-#: api/v2/translations_router.py:131
+#: api/v2/translations_router.py:132 api/v3/translations_router.py:88
 msgid "Coming Soon"
 msgstr "Очаквайте Скоро"
 
-#: api/v2/translations_router.py:132
+#: api/v2/translations_router.py:133 api/v3/translations_router.py:89
 msgid "min"
 msgstr "мин."
 
-#: api/v2/translations_router.py:133
+#: api/v2/translations_router.py:134 api/v3/translations_router.py:90
 msgid "minutes"
 msgstr "минути"
 
-#: api/v2/translations_router.py:134
+#: api/v2/translations_router.py:135 api/v3/translations_router.py:91
 msgid "Remaining Seats:"
 msgstr "Оставащи Места:"
 
-#: api/v2/translations_router.py:136
+#: api/v2/translations_router.py:137 api/v3/translations_router.py:93
 msgid "Author"
 msgstr "Автор"
 
-#: api/v2/translations_router.py:137
+#: api/v2/translations_router.py:138 api/v3/translations_router.py:94
 msgid "Director"
 msgstr "Режисьор"
 
-#: api/v2/translations_router.py:138
+#: api/v2/translations_router.py:139 api/v3/translations_router.py:95
 msgid "Scenographer"
 msgstr "Сценография"
 
-#: api/v2/translations_router.py:139
+#: api/v2/translations_router.py:140 api/v3/translations_router.py:96
 msgid "Composer /music/"
 msgstr "Композитор /музика/"
 
-#: api/v2/translations_router.py:140
+#: api/v2/translations_router.py:141 api/v3/translations_router.py:97
 msgid "Dramatization"
 msgstr "Драматизация"
 
-#: api/v2/translations_router.py:141
+#: api/v2/translations_router.py:142 api/v3/translations_router.py:98
 msgid "Artistic director"
 msgstr "Художествен директор"
 
-#: api/v2/translations_router.py:142
+#: api/v2/translations_router.py:143 api/v3/translations_router.py:99
 msgid "Translation"
 msgstr "Превод"
 
-#: api/v2/translations_router.py:144 api/v2/translations_router.py:339
+#: api/v2/translations_router.py:145 api/v2/translations_router.py:340
+#: api/v3/translations_router.py:101 api/v3/translations_router.py:296
 msgid "Close"
 msgstr "Затвори"
 
-#: api/v2/translations_router.py:147
+#: api/v2/translations_router.py:148 api/v3/translations_router.py:104
 msgid "Current"
 msgstr "Текущи"
 
-#: api/v2/translations_router.py:149
+#: api/v2/translations_router.py:150 api/v3/translations_router.py:106
 msgid "Audience"
 msgstr "Публика"
 
-#: api/v2/translations_router.py:150
+#: api/v2/translations_router.py:151 api/v3/translations_router.py:107
 msgid "Adults"
 msgstr "Възрастни"
 
-#: api/v2/translations_router.py:151
+#: api/v2/translations_router.py:152 api/v3/translations_router.py:108
 msgid "Children"
 msgstr "Деца"
 
-#: api/v2/translations_router.py:153
+#: api/v2/translations_router.py:154 api/v3/translations_router.py:110
 msgid "Genre"
 msgstr "Жанр"
 
-#: api/v2/translations_router.py:154
+#: api/v2/translations_router.py:155 api/v3/translations_router.py:111
 msgid "Drama"
 msgstr "Драма"
 
-#: api/v2/translations_router.py:155
+#: api/v2/translations_router.py:156 api/v3/translations_router.py:112
 msgid "Comedy"
 msgstr "Комедия"
 
-#: api/v2/translations_router.py:156
+#: api/v2/translations_router.py:157 api/v3/translations_router.py:113
 msgid "Other"
 msgstr "Други"
 
-#: api/v2/translations_router.py:157
+#: api/v2/translations_router.py:158 api/v3/translations_router.py:114
 msgid "Puppet Show"
 msgstr "Куклен Театър"
 
-#: api/v2/translations_router.py:158
+#: api/v2/translations_router.py:159 api/v3/translations_router.py:115
 msgid "Children's Play"
 msgstr "Постановка за Деца"
 
-#: api/v2/translations_router.py:160
+#: api/v2/translations_router.py:161 api/v3/translations_router.py:117
 msgid "Reset"
 msgstr "Възстановяване"
 
-#: api/v2/translations_router.py:165
+#: api/v2/translations_router.py:166 api/v3/translations_router.py:122
 msgid "Друмеви Театрални Празници"
 msgstr ""
 
-#: api/v2/translations_router.py:166
+#: api/v2/translations_router.py:167 api/v3/translations_router.py:123
 msgid "Начало"
 msgstr ""
 
-#: api/v2/translations_router.py:167
+#: api/v2/translations_router.py:168 api/v3/translations_router.py:124
 msgid "За Фестивала"
 msgstr ""
 
-#: api/v2/translations_router.py:168
+#: api/v2/translations_router.py:169 api/v3/translations_router.py:125
 msgid "Постижения"
 msgstr ""
 
-#: api/v2/translations_router.py:169
+#: api/v2/translations_router.py:170 api/v3/translations_router.py:126
 msgid "Кандидатстване"
 msgstr ""
 
-#: api/v2/translations_router.py:170
+#: api/v2/translations_router.py:171 api/v3/translations_router.py:127
 msgid "Научете Повече"
 msgstr ""
 
-#: api/v2/translations_router.py:171
+#: api/v2/translations_router.py:172 api/v3/translations_router.py:128
 msgid "Продължи Надолу"
 msgstr ""
 
-#: api/v2/translations_router.py:172
+#: api/v2/translations_router.py:173 api/v3/translations_router.py:129
 msgid "Това поле е задължително*"
 msgstr ""
 
-#: api/v2/translations_router.py:173
+#: api/v2/translations_router.py:174 api/v3/translations_router.py:130
 msgid "Това поле HE е задължително"
 msgstr ""
 
-#: api/v2/translations_router.py:174
+#: api/v2/translations_router.py:175 api/v3/translations_router.py:131
 msgid "Качване"
 msgstr ""
 
-#: api/v2/translations_router.py:175
+#: api/v2/translations_router.py:176 api/v3/translations_router.py:132
 msgid "Изпращане"
 msgstr ""
 
-#: api/v2/translations_router.py:177
+#: api/v2/translations_router.py:178 api/v3/translations_router.py:134
 msgid "гр. Шумен | 11-16 Май 2024"
 msgstr ""
 
-#: api/v2/translations_router.py:178
+#: api/v2/translations_router.py:179 api/v3/translations_router.py:135
 msgid "С финансовата подкрепа на:"
 msgstr ""
 
-#: api/v2/translations_router.py:180
+#: api/v2/translations_router.py:181 api/v3/translations_router.py:137
 msgid "История"
 msgstr ""
 
-#: api/v2/translations_router.py:182
+#: api/v2/translations_router.py:183 api/v3/translations_router.py:139
 msgid "който"
 msgstr ""
 
-#: api/v2/translations_router.py:183
+#: api/v2/translations_router.py:184 api/v3/translations_router.py:140
 msgid "насърчава"
 msgstr ""
 
-#: api/v2/translations_router.py:184
+#: api/v2/translations_router.py:185 api/v3/translations_router.py:141
 msgid "търси"
 msgstr ""
 
-#: api/v2/translations_router.py:185
+#: api/v2/translations_router.py:186 api/v3/translations_router.py:142
 msgid "създава"
 msgstr ""
 
-#: api/v2/translations_router.py:187
+#: api/v2/translations_router.py:188 api/v3/translations_router.py:144
 msgid "Празникът на българската драматургия от 1966 г.,"
 msgstr ""
 
-#: api/v2/translations_router.py:189
+#: api/v2/translations_router.py:190 api/v3/translations_router.py:146
 msgid "новото,"
 msgstr ""
 
-#: api/v2/translations_router.py:191
+#: api/v2/translations_router.py:192 api/v3/translations_router.py:148
 msgid "непознатото,"
 msgstr ""
 
-#: api/v2/translations_router.py:193
+#: api/v2/translations_router.py:194 api/v3/translations_router.py:150
 msgid "традиции на родните театрални сцени."
 msgstr ""
 
-#: api/v2/translations_router.py:194
+#: api/v2/translations_router.py:195 api/v3/translations_router.py:151
 msgid ""
 "Историята на „Друмеви театрални празници“ е изключително богата, не само заради "
 "достолепната възраст на фестивала, но и интересните и катарзисни моменти, през "
@@ -347,340 +361,341 @@ msgid ""
 "гостите на формата цели 378 спектакъла."
 msgstr ""
 
-#: api/v2/translations_router.py:223
+#: api/v2/translations_router.py:224 api/v3/translations_router.py:180
 msgid "Вдъхновяваме българските творци от 58 години"
 msgstr ""
 
-#: api/v2/translations_router.py:226
+#: api/v2/translations_router.py:227 api/v3/translations_router.py:183
 msgid "32 издания"
 msgstr ""
 
-#: api/v2/translations_router.py:227
+#: api/v2/translations_router.py:228 api/v3/translations_router.py:184
 msgid ""
 "Издания, които стимулират и насърчават българските театрали да намират смисъл в "
 "родната драматургия и литература."
 msgstr ""
 
-#: api/v2/translations_router.py:230
+#: api/v2/translations_router.py:231 api/v3/translations_router.py:187
 msgid "378 спектакъла"
 msgstr ""
 
-#: api/v2/translations_router.py:231
+#: api/v2/translations_router.py:232 api/v3/translations_router.py:188
 msgid ""
 "В рамките на своята дълголетна история, фестивалът е показал на своите гости "
 "цели 378 спектакъла на различните сцени в театъра и града."
 msgstr ""
 
-#: api/v2/translations_router.py:234
+#: api/v2/translations_router.py:235 api/v3/translations_router.py:191
 msgid "184 пиеси"
 msgstr ""
 
-#: api/v2/translations_router.py:235
+#: api/v2/translations_router.py:236 api/v3/translations_router.py:192
 msgid ""
 "От 1993 година, в „Авторски прочит“ са прочетени и селектирани 184 нови и "
 "непоставяни пиеси на български драматурзи."
 msgstr ""
 
-#: api/v2/translations_router.py:238
+#: api/v2/translations_router.py:239 api/v3/translations_router.py:195
 msgid "Кандидайтствай в направление"
 msgstr ""
 
-#: api/v2/translations_router.py:241
+#: api/v2/translations_router.py:242 api/v3/translations_router.py:198
 msgid "Преглед на спектакли"
 msgstr ""
 
-#: api/v2/translations_router.py:242
+#: api/v2/translations_router.py:243 api/v3/translations_router.py:199
 msgid ""
 "*Спектаклите могат да бъдат продукция на държавни, общински или частни културни "
 "институти."
 msgstr ""
 
-#: api/v2/translations_router.py:244 api/v2/translations_router.py:313
+#: api/v2/translations_router.py:245 api/v2/translations_router.py:314
+#: api/v3/translations_router.py:201 api/v3/translations_router.py:270
 msgid "Авторски прочит"
 msgstr ""
 
-#: api/v2/translations_router.py:245
+#: api/v2/translations_router.py:246 api/v3/translations_router.py:202
 msgid ""
 "*Текстът трябва да бъде непубликуван и непоставян, за да се впише в регламента "
 "на фестивала!"
 msgstr ""
 
-#: api/v2/translations_router.py:247
+#: api/v2/translations_router.py:248 api/v3/translations_router.py:204
 msgid "или"
 msgstr ""
 
-#: api/v2/translations_router.py:248
+#: api/v2/translations_router.py:249 api/v3/translations_router.py:205
 msgid "Опции за кандидатстване"
 msgstr ""
 
-#: api/v2/translations_router.py:249
+#: api/v2/translations_router.py:250 api/v3/translations_router.py:206
 msgid ""
 "Даваме ви две опции, чрез които да можете да кандидатствате за ваше улеснение. "
 "Моля изберете един от двата варианта."
 msgstr ""
 
-#: api/v2/translations_router.py:251
+#: api/v2/translations_router.py:252 api/v3/translations_router.py:208
 msgid "Чрез имейл:"
 msgstr ""
 
-#: api/v2/translations_router.py:252
+#: api/v2/translations_router.py:253 api/v3/translations_router.py:209
 msgid "Изтеглете, попълнете и изпратете файла на theatreshumen@gmail.com."
 msgstr ""
 
-#: api/v2/translations_router.py:253
+#: api/v2/translations_router.py:254 api/v3/translations_router.py:210
 msgid "Онлайн тук:"
 msgstr ""
 
-#: api/v2/translations_router.py:254
+#: api/v2/translations_router.py:255 api/v3/translations_router.py:211
 msgid "Попълнете през уебсайта онлайн формуляра за кандидатстване."
 msgstr ""
 
-#: api/v2/translations_router.py:255
+#: api/v2/translations_router.py:256 api/v3/translations_router.py:212
 msgid "Изтегли Тук"
 msgstr ""
 
-#: api/v2/translations_router.py:256
+#: api/v2/translations_router.py:257 api/v3/translations_router.py:213
 msgid "Продължи"
 msgstr ""
 
-#: api/v2/translations_router.py:259
+#: api/v2/translations_router.py:260 api/v3/translations_router.py:216
 msgid "Преглед на Спектакли"
 msgstr ""
 
-#: api/v2/translations_router.py:260
+#: api/v2/translations_router.py:261 api/v3/translations_router.py:217
 msgid "Име на театър или организация"
 msgstr ""
 
-#: api/v2/translations_router.py:261
+#: api/v2/translations_router.py:262 api/v3/translations_router.py:218
 msgid "Заглавие на спектакъла"
 msgstr ""
 
-#: api/v2/translations_router.py:262
+#: api/v2/translations_router.py:263 api/v3/translations_router.py:219
 msgid "Пълен запис на спектакъла (до 5гб)"
 msgstr ""
 
-#: api/v2/translations_router.py:263
+#: api/v2/translations_router.py:264 api/v3/translations_router.py:220
 msgid "Автор"
 msgstr ""
 
-#: api/v2/translations_router.py:264
+#: api/v2/translations_router.py:265 api/v3/translations_router.py:221
 msgid "Режисьор"
 msgstr ""
 
-#: api/v2/translations_router.py:265
+#: api/v2/translations_router.py:266 api/v3/translations_router.py:222
 msgid "Сценограф"
 msgstr ""
 
-#: api/v2/translations_router.py:266
+#: api/v2/translations_router.py:267 api/v3/translations_router.py:223
 msgid "Композитор"
 msgstr ""
 
-#: api/v2/translations_router.py:267
+#: api/v2/translations_router.py:268 api/v3/translations_router.py:224
 msgid "Други"
 msgstr ""
 
-#: api/v2/translations_router.py:268
+#: api/v2/translations_router.py:269 api/v3/translations_router.py:225
 msgid "Участват"
 msgstr ""
 
-#: api/v2/translations_router.py:270
+#: api/v2/translations_router.py:271 api/v3/translations_router.py:227
 msgid "Данни за Спектакъла"
 msgstr ""
 
-#: api/v2/translations_router.py:271
+#: api/v2/translations_router.py:272 api/v3/translations_router.py:228
 msgid "Кратка анотация"
 msgstr ""
 
-#: api/v2/translations_router.py:272
+#: api/v2/translations_router.py:273 api/v3/translations_router.py:229
 msgid "Снимков материал - до 5 снимки + плакат (общо 6 файла)"
 msgstr ""
 
-#: api/v2/translations_router.py:273
+#: api/v2/translations_router.py:274 api/v3/translations_router.py:230
 msgid "Пуснете файловете тук или натиснете за качване"
 msgstr ""
 
-#: api/v2/translations_router.py:274
+#: api/v2/translations_router.py:275 api/v3/translations_router.py:231
 msgid "Плакат"
 msgstr ""
 
-#: api/v2/translations_router.py:275
+#: api/v2/translations_router.py:276 api/v3/translations_router.py:232
 msgid "Времетраене"
 msgstr ""
 
-#: api/v2/translations_router.py:276
+#: api/v2/translations_router.py:277 api/v3/translations_router.py:233
 msgid "Антракт"
 msgstr ""
 
-#: api/v2/translations_router.py:279
+#: api/v2/translations_router.py:280 api/v3/translations_router.py:236
 msgid "Лице за контакти, длъжност"
 msgstr ""
 
-#: api/v2/translations_router.py:280
+#: api/v2/translations_router.py:281 api/v3/translations_router.py:237
 msgid "Адрес"
 msgstr ""
 
-#: api/v2/translations_router.py:281
+#: api/v2/translations_router.py:282 api/v3/translations_router.py:238
 msgid "Телефон"
 msgstr ""
 
-#: api/v2/translations_router.py:282
+#: api/v2/translations_router.py:283 api/v3/translations_router.py:239
 msgid "E-mail"
 msgstr ""
 
-#: api/v2/translations_router.py:283
+#: api/v2/translations_router.py:284 api/v3/translations_router.py:240
 msgid "Web страница"
 msgstr ""
 
-#: api/v2/translations_router.py:286
+#: api/v2/translations_router.py:287 api/v3/translations_router.py:243
 msgid ""
 "Технически и /или други специфични изисквания по построяване на декора, "
 "осветлението, музикалното оформление и други/описват се конкретно"
 msgstr ""
 
-#: api/v2/translations_router.py:288
+#: api/v2/translations_router.py:289 api/v3/translations_router.py:245
 msgid "Необходим брой чиги"
 msgstr ""
 
-#: api/v2/translations_router.py:289
+#: api/v2/translations_router.py:290 api/v3/translations_router.py:246
 msgid "Минимални размери на игралното пространство (Ш/В/Д)"
 msgstr ""
 
-#: api/v2/translations_router.py:290
+#: api/v2/translations_router.py:291 api/v3/translations_router.py:247
 msgid "Необходимо време за строеж на"
 msgstr ""
 
-#: api/v2/translations_router.py:291
+#: api/v2/translations_router.py:292 api/v3/translations_router.py:248
 msgid "Декор"
 msgstr ""
 
-#: api/v2/translations_router.py:292
+#: api/v2/translations_router.py:293 api/v3/translations_router.py:249
 msgid "Осветление"
 msgstr ""
 
-#: api/v2/translations_router.py:293
+#: api/v2/translations_router.py:294 api/v3/translations_router.py:250
 msgid "Звук"
 msgstr ""
 
-#: api/v2/translations_router.py:294
+#: api/v2/translations_router.py:295 api/v3/translations_router.py:251
 msgid "Необходимо време за разваляне на декора"
 msgstr ""
 
-#: api/v2/translations_router.py:295
+#: api/v2/translations_router.py:296 api/v3/translations_router.py:252
 msgid ""
 "Каква бройка хора и от кои технически служби на театъра домакин са ви "
 "необходими: горна механизация, сценични работници, осветители, тон техници, "
 "мултимедиен техник, реквизитор, гардеробиер и други."
 msgstr ""
 
-#: api/v2/translations_router.py:298
+#: api/v2/translations_router.py:299 api/v3/translations_router.py:255
 msgid ""
 "Каква бройка хора и от кои технически служби на театъра домакин са ви "
 "необходими?"
 msgstr ""
 
-#: api/v2/translations_router.py:301
+#: api/v2/translations_router.py:302 api/v3/translations_router.py:258
 msgid ""
 "Телефонен номер на директора; на отговорника на трупата за турнето и отговорник "
 "по технически въпроси;"
 msgstr ""
 
-#: api/v2/translations_router.py:304
+#: api/v2/translations_router.py:305 api/v3/translations_router.py:261
 msgid "Данни за разходи, които се поемат от организатора на фестивала"
 msgstr ""
 
-#: api/v2/translations_router.py:305
+#: api/v2/translations_router.py:306 api/v3/translations_router.py:262
 msgid ""
 "Списък на пътуващия екип със спектакъла (имена и длъжност), за изчисляване на "
 "командировъчни разходи."
 msgstr ""
 
-#: api/v2/translations_router.py:306
+#: api/v2/translations_router.py:307 api/v3/translations_router.py:263
 msgid "Списък на пътуващия екип"
 msgstr ""
 
-#: api/v2/translations_router.py:307
+#: api/v2/translations_router.py:308 api/v3/translations_router.py:264
 msgid "Хонорари на гост-актьори (поименно), доказани с прикачено копие на договор"
 msgstr ""
 
-#: api/v2/translations_router.py:308
+#: api/v2/translations_router.py:309 api/v3/translations_router.py:265
 msgid ""
 "Задължения по закона за авторските и сродни права, доказани с прикачено копие "
 "на договор"
 msgstr ""
 
-#: api/v2/translations_router.py:309
+#: api/v2/translations_router.py:310 api/v3/translations_router.py:266
 msgid "Общо пътни разходи за превоз на:"
 msgstr ""
 
-#: api/v2/translations_router.py:310
+#: api/v2/translations_router.py:311 api/v3/translations_router.py:267
 msgid "Декор и технически служби"
 msgstr ""
 
-#: api/v2/translations_router.py:311
+#: api/v2/translations_router.py:312 api/v3/translations_router.py:268
 msgid "Актьорски състав"
 msgstr ""
 
-#: api/v2/translations_router.py:314
+#: api/v2/translations_router.py:315 api/v3/translations_router.py:271
 msgid "Регламент"
 msgstr ""
 
-#: api/v2/translations_router.py:315
+#: api/v2/translations_router.py:316 api/v3/translations_router.py:272
 msgid "Пиесата трябва да е непубликувана и непоставяна;"
 msgstr ""
 
-#: api/v2/translations_router.py:316
+#: api/v2/translations_router.py:317 api/v3/translations_router.py:273
 msgid "Текстът трябва да е написан на български език;"
 msgstr ""
 
-#: api/v2/translations_router.py:317
+#: api/v2/translations_router.py:318 api/v3/translations_router.py:274
 msgid "Да не надвишава 60 страници."
 msgstr ""
 
-#: api/v2/translations_router.py:318
+#: api/v2/translations_router.py:319 api/v3/translations_router.py:275
 msgid "Име"
 msgstr ""
 
-#: api/v2/translations_router.py:319
+#: api/v2/translations_router.py:320 api/v3/translations_router.py:276
 msgid ""
 "За успешното реализиране на фестивала, очакваме Вашите предложения за текстове "
 "в направление „Авторски прочит“ до "
 msgstr ""
 
-#: api/v2/translations_router.py:321
+#: api/v2/translations_router.py:322 api/v3/translations_router.py:278
 msgid "31 март 2024 г. "
 msgstr ""
 
-#: api/v2/translations_router.py:322
+#: api/v2/translations_router.py:323 api/v3/translations_router.py:279
 msgid ""
 "на имейл адрес drumevipraznici@dktshumen.com или на място в Драматично-куклен "
 "театър „Васил Друмев“, Шумен."
 msgstr ""
 
-#: api/v2/translations_router.py:325
+#: api/v2/translations_router.py:326 api/v3/translations_router.py:282
 msgid "Спонсори на МФ „Друмеви театрални празници“:"
 msgstr ""
 
-#: api/v2/translations_router.py:336
+#: api/v2/translations_router.py:337 api/v3/translations_router.py:293
 msgid "You can watch"
 msgstr "Може да гледате"
 
-#: api/v2/translations_router.py:337
+#: api/v2/translations_router.py:338 api/v3/translations_router.py:294
 msgid "in"
 msgstr "в"
 
-#: api/v2/translations_router.py:341
+#: api/v2/translations_router.py:342 api/v3/translations_router.py:298
 msgid "Meet"
 msgstr "Запознайте се с"
 
-#: api/v2/translations_router.py:349
+#: api/v2/translations_router.py:350 api/v3/translations_router.py:306
 msgid "History of the Shumen Theater"
 msgstr "История на Театър Шумен"
 
-#: api/v2/translations_router.py:350
+#: api/v2/translations_router.py:351 api/v3/translations_router.py:307
 msgid "Stefan Izvorski"
 msgstr "Стефан Изворски"
 
-#: api/v2/translations_router.py:351
+#: api/v2/translations_router.py:352 api/v3/translations_router.py:308
 msgid ""
 "Teachers and students on the Shumen theater stage. In the first row, from right "
 "to left, are Tsarevna Miladinova, Dobri Voinikov, the priest Todor Baychev - "
@@ -690,7 +705,7 @@ msgstr ""
 "ляво е Царевна Миладинова, Добри Войников, свещеникът Тодор Байчев – суфльор на "
 "шуменските представления и сърежисьорът Тодор Джабаров."
 
-#: api/v2/translations_router.py:354
+#: api/v2/translations_router.py:355 api/v3/translations_router.py:311
 msgid ""
 "Kavrakov's cafe, where the play \"Mihal Mishkoed\" was performed in 1856, "
 "artist St. Petrov"
@@ -698,45 +713,45 @@ msgstr ""
 "Кавръковото кафене, където се е играла пиесата “Михал Мишкоед” през 1856 г., "
 "худ. Ст. Петров"
 
-#: api/v2/translations_router.py:355
+#: api/v2/translations_router.py:356 api/v3/translations_router.py:312
 msgid "Community Center \"Archangel Michael\""
 msgstr "Читалище „Архангел Михаил”"
 
-#: api/v2/translations_router.py:356
+#: api/v2/translations_router.py:357 api/v3/translations_router.py:313
 msgid ""
 "The first theater curtain from 1898 in the \"Archangel Michael\" Community "
 "Center"
 msgstr "Първата театрална завеса от 1898 г. в читалище “Архангел Михаил”"
 
-#: api/v2/translations_router.py:357
+#: api/v2/translations_router.py:358 api/v3/translations_router.py:314
 msgid "Vasil Drumev"
 msgstr "Васил Друмев"
 
-#: api/v2/translations_router.py:358
+#: api/v2/translations_router.py:359 api/v3/translations_router.py:315
 msgid "Dobri Voinikov"
 msgstr "Добри Войников"
 
-#: api/v2/translations_router.py:359
+#: api/v2/translations_router.py:360 api/v3/translations_router.py:316
 msgid "Sava Dobroplodni"
 msgstr "Сава Доброплодни"
 
-#: api/v2/translations_router.py:360
+#: api/v2/translations_router.py:361 api/v3/translations_router.py:317
 msgid "Veliko Dukemendjiev"
 msgstr "Велико Дюкменджиев"
 
-#: api/v2/translations_router.py:361
+#: api/v2/translations_router.py:362 api/v3/translations_router.py:318
 msgid "Shumen - ul. \"Slavianska\" - \"Odeon\" Theater"
 msgstr "Шумен - ул. \"Славянска\" - Театър \"Одеон\""
 
-#: api/v2/translations_router.py:362
+#: api/v2/translations_router.py:363 api/v3/translations_router.py:319
 msgid "National Theatre \"Vasil Drumev\""
 msgstr "Народен Театър \"Васил Друмев\""
 
-#: api/v2/translations_router.py:363
+#: api/v2/translations_router.py:364 api/v3/translations_router.py:320
 msgid "Drama Puppet Theater \"Vasil Drumev\""
 msgstr "Драматично-Куклен Театър \"Васил Друмев\""
 
-#: api/v2/translations_router.py:365
+#: api/v2/translations_router.py:366 api/v3/translations_router.py:322
 msgid ""
 "The Drama-Puppet Theatre \"Vasil Drumev\" is the inheritor of theatrical "
 "traditions in Shumen dating back to the era of the Bulgarian Revival. The first "
@@ -756,7 +771,7 @@ msgstr ""
 "братя Кирил и Методий. Така се документира първият шуменски принос към "
 "българското театрознание."
 
-#: api/v2/translations_router.py:371
+#: api/v2/translations_router.py:372 api/v3/translations_router.py:328
 msgid ""
 "In a publication of the magazine \"Lyuboslovie\" from 1846, a theatrical "
 "celebration at the end of the school year is described, which took place at the "
@@ -776,7 +791,7 @@ msgstr ""
 "Оттам произлиза училищният театър, в който се изнасят характерните за тази "
 "епоха драматични диалози."
 
-#: api/v2/translations_router.py:377
+#: api/v2/translations_router.py:378 api/v3/translations_router.py:334
 msgid ""
 "The Shumen society was not satisfied with child-student plots, thus it took "
 "great interest in the cultural life of the Hungarian emigration. Among them "
@@ -802,7 +817,7 @@ msgstr ""
 "През септември 1850 г. полската емиграция поставя първата оперна постановка в "
 "града, която има голям успех."
 
-#: api/v2/translations_router.py:386
+#: api/v2/translations_router.py:387 api/v3/translations_router.py:343
 msgid ""
 "During the Crimean War (1853-1856), the people of Shumen gradually embraced new "
 "cultural entertainments brought from Europe by the English and French forces "
@@ -812,7 +827,7 @@ msgstr ""
 "културни развлечения, които носят от Европа пребиваващите в града английски и "
 "френски войски."
 
-#: api/v2/translations_router.py:388
+#: api/v2/translations_router.py:389 api/v3/translations_router.py:345
 msgid ""
 "With the growing cultural needs of Shumen society, the idea of establishing a "
 "public community center (chitalishte) was born. It was founded in 1856 in "
@@ -830,7 +845,7 @@ msgstr ""
 "Добри Войников, чорбаджи Анастас отстъпва две от стаите за нуждите на "
 "читалището."
 
-#: api/v2/translations_router.py:394
+#: api/v2/translations_router.py:395 api/v3/translations_router.py:351
 msgid ""
 "In the same year, on August 15, Sava Dobroplodni staged the Bulgarianized "
 "comedy \"Mihal Mishkoed.\" This performance is considered the beginning of "
@@ -853,7 +868,7 @@ msgstr ""
 "XIX в. е неразривно свързано с читалище „Архангел Михаил” (дн. читалище “Добри "
 "Войников”)."
 
-#: api/v2/translations_router.py:401
+#: api/v2/translations_router.py:402 api/v3/translations_router.py:358
 msgid ""
 "In the 1860s, Dobri Voynikov began his theatrical and dramaturgical activities. "
 "After school stage dialogues, he transitioned to larger-scale theatrical "
@@ -865,7 +880,7 @@ msgstr ""
 "представления в по-голям мащаб. На 29 юни 1862 г. е представена комедията „По "
 "неволя доктор” от Молиер."
 
-#: api/v2/translations_router.py:404
+#: api/v2/translations_router.py:405 api/v3/translations_router.py:361
 msgid ""
 "Later, in the 70s, theatrical activity continued to develop within the "
 "community center, which became a hub of cultural and intellectual life in the "
@@ -877,7 +892,7 @@ msgstr ""
 "се урежда модерна за онова време театрална зала, с богат театрален гардероб и "
 "реквизит."
 
-#: api/v2/translations_router.py:407
+#: api/v2/translations_router.py:408 api/v3/translations_router.py:364
 msgid ""
 "During this period, plays such as \"The Suffering Genevieve,\" \"Nevyanka,\" "
 "\"Lost Stanca,\" Voinikov's \"Misunderstood Civilization\" on November 21, "
@@ -890,7 +905,7 @@ msgstr ""
 "цивилизация” – 21 ноември 1871 г., „Райна Княгиня” – февруари 1872 г., също "
 "така „Иванко, убиецът на Асеня I” от Васил Друмев през 1874 г. и много други."
 
-#: api/v2/translations_router.py:411
+#: api/v2/translations_router.py:412 api/v3/translations_router.py:368
 msgid ""
 "Almost all of the actors were members of the community center. In Voinikov's "
 "historical plays, members of the Revolutionary Committee, led by chairman "
@@ -913,7 +928,7 @@ msgstr ""
 "подтиквал своите членове към участие в театъра. Това накарало турската власт "
 "през 1875 г. да прекрати театралната дейност на читалището."
 
-#: api/v2/translations_router.py:418
+#: api/v2/translations_router.py:419 api/v3/translations_router.py:375
 msgid ""
 "In 1876, Dobri Voinikov returned to his hometown and, alongside his teaching "
 "work, once again engaged in community center activities. With the help of "
@@ -931,7 +946,7 @@ msgstr ""
 "война театралните представления отново са прекратени до завземането на града от "
 "руските войски."
 
-#: api/v2/translations_router.py:424
+#: api/v2/translations_router.py:425 api/v3/translations_router.py:381
 msgid ""
 "In the first two decades following the Liberation, theatrical activity in "
 "Shumen was organized jointly by the \"Archangel Michael\" community center and "
@@ -944,7 +959,7 @@ msgstr ""
 "„Основа”. Така новият театрален живот след Освобождението започва с Войниковата "
 "пиеса „Райна Княгиня” в чест на така жадуваната свобода."
 
-#: api/v2/translations_router.py:428
+#: api/v2/translations_router.py:429 api/v3/translations_router.py:385
 msgid ""
 "In 1882, the community of Russian officers in the city joined the community "
 "center theater. Prince Gedroitz prepared several Russian plays, including "
@@ -965,7 +980,7 @@ msgstr ""
 "театрални постановки изцяло преминава в дружество „Основа”. За театрален салон "
 "често е използван широкия коридор на педагогическото училище."
 
-#: api/v2/translations_router.py:435
+#: api/v2/translations_router.py:436 api/v3/translations_router.py:392
 msgid ""
 "In 1898, extensive opportunities for theater emerged in Shumen when the new "
 "community center building was completed, featuring a modern hall and a wide "
@@ -978,7 +993,7 @@ msgstr ""
 "сцена. Тогава дружество „Основа” поставя нова постановка на „Иванко, убиецът на "
 "Асеня I”, което е и една от последните му театрални изяви."
 
-#: api/v2/translations_router.py:439
+#: api/v2/translations_router.py:440 api/v3/translations_router.py:396
 msgid ""
 "After 1900, the Renaissance theme gave way to contemporary artistic drama, "
 "mainly of Western European origin. The city's theatrical activity depended on "
@@ -998,7 +1013,7 @@ msgstr ""
 "„Щастието в пъкъла”, която има голям успех. Поради липса на средства театърът "
 "прекратява дейността си през 1912 г."
 
-#: api/v2/translations_router.py:445
+#: api/v2/translations_router.py:446 api/v3/translations_router.py:402
 msgid ""
 "After the First World War, the \"Shumen City Theater\" was founded by actors "
 "Vladimir Sheytanov and Al. Robertovich. In 1920, artists from the \"Shumen "
@@ -1014,7 +1029,7 @@ msgstr ""
 "просъществува до 1927 г., като през осем годишното си съществуване представя на "
 "сцена 35 постановки от съвременната европейска драматургия."
 
-#: api/v2/translations_router.py:449
+#: api/v2/translations_router.py:450 api/v3/translations_router.py:406
 msgid ""
 "In 1927, the professional artists in Shumen established the \"Dramatic Studio,"
 "\" which was later renamed the \"Shumen Municipal Theater,\" replacing the "
@@ -1032,7 +1047,7 @@ msgstr ""
 "се основава първият в страната „Областен театър” с директор Велико Дюкмеджиев, "
 "просъществувал до 1937 г."
 
-#: api/v2/translations_router.py:454
+#: api/v2/translations_router.py:455 api/v3/translations_router.py:411
 msgid ""
 "A stable, professional municipal theater was established by the decision of the "
 "Shumen Municipality in the spring of 1944, with director Stefan Gudularov. Due "
@@ -1057,7 +1072,7 @@ msgstr ""
 "Лошите условия започват да влияят върху работата на театъра и някои от "
 "артистите преминават в други състави."
 
-#: api/v2/translations_router.py:462
+#: api/v2/translations_router.py:463 api/v3/translations_router.py:419
 msgid ""
 "In the years after 1944, despite facing many challenges, the theater presented "
 "up to ten premieres per season. A committee for the construction of a theater "
@@ -1071,7 +1086,7 @@ msgstr ""
 "на такава сграда започва, но още преди да бъдат завършени изкопите на основите, "
 "той се прекратява."
 
-#: api/v2/translations_router.py:466
+#: api/v2/translations_router.py:467 api/v3/translations_router.py:423
 msgid ""
 "On January 1, 1949, the theater was nationalized. Its director was Ivan "
 "Georgiev. The first manifestation of the State People's Theater – Shumen was "
@@ -1081,7 +1096,7 @@ msgstr ""
 "Първата проява на Държавния народен театър – Шумен е възстановената постановка "
 "„Тартюф” от Молиер с режисьор Димитър Стратев."
 
-#: api/v2/translations_router.py:469
+#: api/v2/translations_router.py:470 api/v3/translations_router.py:426
 msgid ""
 "On October 13, 1957, after almost a decade of construction, the new "
 "multifunctional theater building with a revolving stage was opened. The "
@@ -1093,7 +1108,7 @@ msgstr ""
 "Дойчин Дойчинов. Тържественото откриване на новата сграда става с пиесата "
 "„Ивайло”, подготвена от режисьора Борис Спиров."
 
-#: api/v2/translations_router.py:472
+#: api/v2/translations_router.py:473 api/v3/translations_router.py:429
 msgid ""
 "In 1966, the first edition of the \"Drumevi Theater Holidays\" festival was "
 "realized. The main organizer and host was the Drama Theater – Shumen. At that "
@@ -1103,7 +1118,7 @@ msgstr ""
 "празници”. Основен организатор и домакин е Драматичен театър – Шумен. По това "
 "време директор на театъра е актьорът Иван Янчев."
 
-#: api/v2/translations_router.py:474
+#: api/v2/translations_router.py:475 api/v3/translations_router.py:431
 msgid ""
 "On the occasion of celebrating the 1300th anniversary of the Bulgarian state, "
 "various festivities and the opening of new cultural institutions were organized "
@@ -1126,7 +1141,7 @@ msgstr ""
 "г. Първата постановка, която се поставя на голямата театрална сцена е пиесата "
 "“Снаха”."
 
-#: api/v2/translations_router.py:482
+#: api/v2/translations_router.py:483 api/v3/translations_router.py:439
 msgid ""
 "Starting from January 1, 2000, the Drama Theater – Shumen, and the Puppet "
 "Theater \"Patilanchо,\" were merged into the \"Vasil Drumev\" Drama and Puppet "
@@ -1135,19 +1150,19 @@ msgstr ""
 "От 1 януари 2000 г. Драматичен театър – Шумен и Куклен театър „Патиланчо” са "
 "обединени в Драматично-куклен театър „Васил Друмев” – Шумен."
 
-#: api/v2/translations_router.py:488
+#: api/v2/translations_router.py:489 api/v3/translations_router.py:445
 msgid "Floor Plan"
 msgstr "Схема"
 
-#: api/v2/translations_router.py:489
+#: api/v2/translations_router.py:490 api/v3/translations_router.py:446
 msgid "Seating Plan"
 msgstr "Места"
 
-#: api/v2/translations_router.py:491
+#: api/v2/translations_router.py:492 api/v3/translations_router.py:448
 msgid "Main Stage"
 msgstr "Голяма Сцена"
 
-#: api/v2/translations_router.py:492
+#: api/v2/translations_router.py:493 api/v3/translations_router.py:449
 msgid ""
 "The main stage in the theater has 485 seats distributed on the ground floor and "
 "balcony. It often hosts large and massive productions, both from our theater "
@@ -1159,11 +1174,11 @@ msgstr ""
 "така и на гастролиращи такива.\n"
 "На голяма сцена имаме оркестрина, която се повдига ръчно."
 
-#: api/v2/translations_router.py:496
+#: api/v2/translations_router.py:497 api/v3/translations_router.py:453
 msgid "Chamber Stage"
 msgstr "Камерна Сцена"
 
-#: api/v2/translations_router.py:497
+#: api/v2/translations_router.py:498 api/v3/translations_router.py:454
 msgid ""
 "The Chamber Stage \"Rada Spasova\" has 60 seats. On it, we perform productions "
 "with an intimate character that require a more intimate space.\n"
@@ -1174,11 +1189,11 @@ msgstr ""
 "които са с камерен характер - които изискват по-интимно пространство.\n"
 "Рада Спасова бе дългогодишен директор и актриса в театър „Васил Друмев“."
 
-#: api/v2/translations_router.py:501
+#: api/v2/translations_router.py:502 api/v3/translations_router.py:458
 msgid "Patilancho Stage"
 msgstr "Сцена Патиланчо"
 
-#: api/v2/translations_router.py:502
+#: api/v2/translations_router.py:503 api/v3/translations_router.py:459
 msgid ""
 "Since 2000, the Puppet and Drama Theater unite under one roof, giving rise to "
 "the \"Patilantcho\" Hall. The stage has 60 seats and hosts all of our puppet "

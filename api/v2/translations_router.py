@@ -82,10 +82,11 @@ common_strings = {
                      'premieres and current performances.'),
     # Navbar
     'home': _('What\'s On'),
-    'festival': _('Theater Festival'),
     'repertoire': _('Repertoire'),
     'search': _('Find actor, play...'),
     'tickets': _('Tickets'),
+    'festival': _('Theater Festival'),
+    'tk_festival': _('"Todor Kolev" Festival'),
     # Navbar -> About Dropdown
     'about': _('About Us'),
     'collective': _('Collective'),

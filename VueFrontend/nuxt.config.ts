@@ -22,7 +22,13 @@ export default defineNuxtConfig({
     pageTransition: { name: "page", mode: "out-in" },
   },
   image: {
-    keep: true,
+    provider: "ipx",
+    ipx: {
+      cacheDir: "node_modules/.cache/nuxt-image",
+      cacheOptions: {
+        maxAge: 60 * 60 * 24 * 30,
+      },
+    },
   },
   ogImage: {
     enabled: false,

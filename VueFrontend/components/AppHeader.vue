@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const nuxtApp = useNuxtApp();
 const localePath = useLocalePath();
+const userLocale = useState("userLocale");
 const { data: translations } = useNuxtData("commonStrings");
 
 const offcanvasNavbar = ref(null);
@@ -93,12 +94,12 @@ onBeforeUnmount(() => {
             <li class="nav-item">
               <a
                 class="nav-link link-light badge text-bg-danger"
-                href="https://www.festival.dktshumen.com"
+                :href="`https://www.entase.com/dktshumen/?lc=${userLocale}`"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <span class="d-flex align-items-center ms-3 me-3">
-                  {{ translations.festival }}
+                  {{ translations.tk_festival }}
                   <Icon class="ms-2" name="bi:arrow-up-right-square" />
                 </span>
               </a>
